@@ -3,7 +3,7 @@
 ## What is Pure SDK?
 Pure SDK is a SDK to provide location awareness for your app. Location data is gathered and sent to the cloud for analysis and makes it possible to target users in other contexts based on location data from your users. The SDK is available for iOS and Android.
 
-The SDKs relies on OS-level location data collection methodologies (Google’s Awareness API and iOS’s Significant Changes API) to assess the current state of the device and trigger appropriate scanning logic.
+The SDKs relies on OS-level location data collection methodologies to assess the current state of the device and trigger appropriate scanning logic.
 
 All configurations used by the SDK are provided by an external endpoint, which makes it possible to change the configuration without releasing a new version of the application. It is also possible to use different configurations based device type, Android version, etc.
 
